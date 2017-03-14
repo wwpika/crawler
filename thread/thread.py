@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 from queue import Queue 
-from threading import Thread,Lock
+from threading import Thrdiread,Lock
 import urllib.parse
 import socket
 import time
